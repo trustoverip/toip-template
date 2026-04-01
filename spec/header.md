@@ -1,7 +1,9 @@
 # Document Title
 
-## First-Page Header
-
 ## Abstract
 
-etc.
+## RFC Editor or Stream Note
+
+## Status of This Memo
+
+## Copyright Notice
