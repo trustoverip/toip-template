@@ -1,5 +1,9 @@
 ## Appendices
 
-### Appendix A
+### Appendix A: (Name)
 
-### Appendix B
+### Appendix B: (Name)
+
+### Appendix C: Acknowledgements
+
+(The final appendix should be any additional acknowledgements)
