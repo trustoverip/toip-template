@@ -9,10 +9,10 @@
       "output_path": "./docs",
       "markdown_paths": [
         "header.md",
-        "body.md",
+        "intro.md",
         "terms-and-definitions-intro.md",
-        "appendix.md",
-        "footer.md"
+        "body.md",
+        "appendix.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/logo.svg",
       "logo_link": "https://github.com/trustoverip/spec-up-t",
