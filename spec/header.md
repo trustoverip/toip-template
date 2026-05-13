@@ -1,25 +1,25 @@
 {INSTRUCTIONS ABOUT THE USE OF THIS TEMPLATE: All editorial instructions are enclosed in {curly braces} and MUST be removed from the specification document. All other text MUST be included in the specification document. NOTE: As of 2026, ToIP specifications are required to use [Spec-Up-T](https://trustoverip.github.io/spec-up-t-website/). It will automatically generate a table of contents for the entire specification document.}
 
-# Document Title
+# {Document Title}
 
 _Version:_ {MUST be in X.X or X.XX format}  
 _Document Status:_ {MUST be one of: Working Draft, Working Group Approved Deliverable, ToIP Approved Deliverable}  
 _ToIP Permalink:_ {REQUIRED see [this ToIP wiki page](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/22986818/File+Names+and+Permalinks) for instructions}  
 _DOI:_ {see [this wiki page](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/767787009/ToIP+Approved+Deliverable+Process#Persistent-DOI-Link) for instructions about how to add a DOI}
 
-_Editors:_ {MUST list the full names, optional OrcID and official LF affiliations of each editor}
+_Editors:_ {MUST list the full names, optional OrcID and official LF affiliations of each editor.}
 
 - {Editor 1, Org A}
 - {Editor 2, Org B}
 
-_Contributors:_ {MUST list the full names and official LF affiliations of each substantial contributor — all other acknowledgements go in the Acknowledgements Appendix at the end}
+_Contributors:_ {MUST list the full names and official LF affiliations of each substantial contributor — all other acknowledgements go in the Acknowledgements Appendix at the end.}
 
 - {Contributor 1, Org C}
 - {Contributor 2, Org A}
 
 **Abstract**
 
-{REQUIRED. MUST be a concise summary of the specification written so someone without domain-specific knowledge can quickly understand what it covers}
+{REQUIRED. MUST be a concise summary of the specification written so someone without domain-specific knowledge can quickly understand what it covers.}
 
 **Intellectual Property Rights**
 
