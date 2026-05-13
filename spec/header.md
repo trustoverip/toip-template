@@ -1,6 +1,6 @@
-{INSTRUCTIONS ABOUT THE USE OF THIS TEMPLATE: All editorial instructions are enclosed in {curly braces} and MUST be removed from the specification document. All other text MUST be included in the specification document. NOTE: As of 2026, ToIP specifications are required to use [Spec-Up-T](https://trustoverip.github.io/spec-up-t-website/). It will automatically generate a table of contents for the entire specification document.}
+{INSTRUCTIONS ABOUT THE USE OF THIS TEMPLATE: All editorial instructions are enclosed in {curly braces} and MUST be removed from the specification document. Text in {{double curly braces}} MUST be replaced. All other text MUST be included in the specification document. NOTE: As of 2026, ToIP specifications are required to use [Spec-Up-T](https://trustoverip.github.io/spec-up-t-website/). It will automatically generate a table of contents for the entire specification document.}
 
-# {Document Title}
+# {{Document Title}}
 
 _Version:_ {MUST be in X.X or X.XX format}  
 _Document Status:_ {MUST be one of: Working Draft, Working Group Approved Deliverable, ToIP Approved Deliverable}  
@@ -23,7 +23,7 @@ _Contributors:_ {MUST list the full names and official LF affiliations of each s
 
 **Intellectual Property Rights**
 
-This specification is provided under the [Joint Development Foundation](https://jointdevelopment.org) (JDF) charter for [Trust Over IP](https://trustoverip.org) (ToIP) and is subject to the intellectual property rights policy of the **{insert name of} Working Group**:
+This specification is provided under the [Joint Development Foundation](https://jointdevelopment.org) (JDF) charter for [Trust Over IP](https://trustoverip.org) (ToIP) and is subject to the intellectual property rights policy of the **{{insert name of}} Working Group**:
 
 {modify the following bullets to reflect the IPR terms of the Working Group}  
 _Copyright:_ [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  

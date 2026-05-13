@@ -1,4 +1,4 @@
-## {First Level Section Name}
+## {{First Level Section Name}}
 
 {Every top-level section MUST include exactly one of the following two sentences immediately after the section header:
 This section is normative.
@@ -7,11 +7,11 @@ The first sentence MUST be used if the section contains any normative requiremen
 
 {Each new section or subsection SHOULD begin with at least a sentence or paragraph introducing the purpose of that section.}
 
-### {Second Level Section Name}
+### {{Second Level Section Name}}
 
 {Each new section or subsection SHOULD always begin with at least a sentence or paragraph introducing the purpose of that section.}
 
-#### {Third Level Section Name}
+#### {{Third Level Section Name}}
 
 {Each new section or subsection SHOULD always begin with at least a sentence or paragraph introducing the purpose of that section.}
 

@@ -1,8 +1,8 @@
 ## Appendices
 
-### Appendix A: {Name}
+### Appendix A: {{Name}}
 
-### Appendix B: {Name}
+### Appendix B: {{Name}}
 
 ### Appendix C: Acknowledgements
 
