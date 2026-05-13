@@ -108,7 +108,7 @@ customElements.define("slide-panels",class extends HTMLElement{static get observ
       ],
       "source": "xref",
       "termId": "term:credential",
-      "lastUpdated": "2026-05-13T17:05:43.767Z"
+      "lastUpdated": "2026-05-13T17:21:22.276Z"
     }
   ]
 };</script>
@@ -316,11 +316,11 @@ customElements.define("slide-panels",class extends HTMLElement{static get observ
                         <ul class="toc">
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#terminology">Terminology</a></li>
-<li><a href="#-2">{First Level Section Name}</a>
+<li><a href="#first-level-section-name">{{First Level Section Name}}</a>
 <ul>
-<li><a href="#-3">{Second Level Section Name}</a>
+<li><a href="#second-level-section-name">{{Second Level Section Name}}</a>
 <ul>
-<li><a href="#-4">{Third Level Section Name}</a></li>
+<li><a href="#third-level-section-name">{{Third Level Section Name}}</a></li>
 </ul>
 </li>
 </ul>
@@ -344,8 +344,8 @@ customElements.define("slide-panels",class extends HTMLElement{static get observ
 </li>
 <li><a href="#appendices">Appendices</a>
 <ul>
-<li><a href="#appendix-a">Appendix A: {Name}</a></li>
-<li><a href="#appendix-b">Appendix B: {Name}</a></li>
+<li><a href="#appendix-a-name">Appendix A: {{Name}}</a></li>
+<li><a href="#appendix-b-name">Appendix B: {{Name}}</a></li>
 <li><a href="#appendix-c-acknowledgements">Appendix C: Acknowledgements</a></li>
 </ul>
 </li>
@@ -362,8 +362,8 @@ customElements.define("slide-panels",class extends HTMLElement{static get observ
             <main class="col-md-8 ms-sm-auto col-lg-9 px-md-4 pt-5">
                 <article id="content" class="">
                     <div id="terminology-section-utility-container" class="d-print-none alert alert-primary p-3"></div>
-                    <p>{INSTRUCTIONS ABOUT THE USE OF THIS TEMPLATE: All editorial instructions are enclosed in {curly braces} and MUST be removed from the specification document. All other text MUST be included in the specification document. NOTE: As of 2026, ToIP specifications are required to use <a href="https://trustoverip.github.io/spec-up-t-website/">Spec-Up-T</a>. It will automatically generate a table of contents for the entire specification document.}</p>
-<h1 document="" title="" id=""><a class="toc-anchor d-print-none" href="#">§</a> </h1>
+                    <p>{INSTRUCTIONS ABOUT THE USE OF THIS TEMPLATE: All editorial instructions are enclosed in {curly braces} and MUST be removed from the specification document. Text in {{double curly braces}} MUST be replaced. All other text MUST be included in the specification document. NOTE: As of 2026, ToIP specifications are required to use <a href="https://trustoverip.github.io/spec-up-t-website/">Spec-Up-T</a>. It will automatically generate a table of contents for the entire specification document.}</p>
+<h1 id="document-title"><a class="toc-anchor d-print-none" href="#document-title">§</a> {{Document Title}}</h1>
 <p><em>Version:</em> {MUST be in X.X or X.XX format}<br>
 <em>Document Status:</em> {MUST be one of: Working Draft, Working Group Approved Deliverable, ToIP Approved Deliverable}<br>
 <em>ToIP Permalink:</em> {REQUIRED see <a href="https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/22986818/File+Names+and+Permalinks">this ToIP wiki page</a> for instructions}<br>
@@ -381,7 +381,7 @@ customElements.define("slide-panels",class extends HTMLElement{static get observ
 <p><strong>Abstract</strong></p>
 <p required.="" must="" be="" a="" concise="" summary="" of="" the="" specification="" written="" so="" someone="" without="" domain-specific="" knowledge="" can="" quickly="" understand="" what="" it="" covers.=""></p>
 <p><strong>Intellectual Property Rights</strong></p>
-<p>This specification is provided under the <a href="https://jointdevelopment.org">Joint Development Foundation</a> (JDF) charter for <a href="https://trustoverip.org">Trust Over IP</a> (ToIP) and is subject to the intellectual property rights policy of the <strong>{insert name of} Working Group</strong>:</p>
+<p>This specification is provided under the <a href="https://jointdevelopment.org">Joint Development Foundation</a> (JDF) charter for <a href="https://trustoverip.org">Trust Over IP</a> (ToIP) and is subject to the intellectual property rights policy of the <strong>{{insert name of}} Working Group</strong>:</p>
 <p>{modify the following bullets to reflect the IPR terms of the Working Group}<br>
 <em>Copyright:</em> <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a><br>
 <em>Patent:</em> W3C Mode (based on the <a href="https://www.w3.org/Consortium/Patent-Policy-20040205/">W3C Patent Policy</a>)<br>
@@ -398,7 +398,7 @@ customElements.define("slide-panels",class extends HTMLElement{static get observ
 <ul this="" section="" should="" include="" the="" most="" important="" terms="" required="" for="" a="" reader="" to="" understand="" specification.="" these="" be="" managed="" using="" spec-up-t="" glossary="" features.="" may="" that="" are="" in="" referenced="" glossaries="" above="" if="" those="" essential="" understanding="" specification—in="" case="" use="" transclusion="" (tref)="" feature.="" alternatively,="" judgement="" of="" editors,="" either:="" a)="" replaced,="" or="" b)="" supplemented="" with="" separate="" included="" as="" an="" appendix.="">
 <li><a href="https://glossary.trustoverip.org">ToIP Main Glossary</a></li>
 <li><a href="https://trustoverip.github.io/ctwg-general-glossary">ToIP General IT Glossary</a></li>
-<li any="" other="" external="" glossary="" included="" in="" spec-up-t="" xrefs=""></li>
+<li>{{any other external glossary included in Spec-Up-T xrefs}}</li>
 </ul>
 <div id="terminology-section-start"></div>
 <!-- file: terms-definitions/verifiable_credential.md -->
@@ -413,15 +413,15 @@ customElements.define("slide-panels",class extends HTMLElement{static get observ
 <!-- file: terms-definitions/verifiable_trust_community.md -->
 
 <!-- file: body.md -->
-<h2 first="" level="" section="" name="" id="-2"><a class="toc-anchor d-print-none" href="#-2">§</a> </h2>
+<h2 id="first-level-section-name"><a class="toc-anchor d-print-none" href="#first-level-section-name">§</a> {{First Level Section Name}}</h2>
 <p>{Every top-level section MUST include exactly one of the following two sentences immediately after the section header:
 This section is normative.
 This section is informative.
 The first sentence MUST be used if the section contains any normative requirements expressed using RFC keywords. The second sentence MUST be used if the section does NOT contain any normative requirements (and therefore MUST NOT contain any RFC keywords). As a general best practice, all normative sections SHOULD be grouped together.}</p>
 
-<h3 second="" level="" section="" name="" id="-3"><a class="toc-anchor d-print-none" href="#-3">§</a> </h3>
+<h3 id="second-level-section-name"><a class="toc-anchor d-print-none" href="#second-level-section-name">§</a> {{Second Level Section Name}}</h3>
 
-<h4 third="" level="" section="" name="" id="-4"><a class="toc-anchor d-print-none" href="#-4">§</a> </h4>
+<h4 id="third-level-section-name"><a class="toc-anchor d-print-none" href="#third-level-section-name">§</a> {{Third Level Section Name}}</h4>
 
 <p>{A bit about the <a class="term-reference" href="#term:vtc">VTC</a> for your info… (just showing an example glossary reference here in the text)}</p>
 <p>{When nesting sections it is RECOMMENDED to go no more than three levels deep. Use as many sections as is necessary to cover all the requirements of the specification, but keep the text and diagrams as concise as possible. <a href="https://www.ietf.org/archive/id/draft-flanagan-7322bis-07.html#name-body-of-the-memo">See this IETF guidance</a>.}</p>
@@ -445,8 +445,8 @@ The first sentence MUST be used if the section contains any normative requiremen
 <h3 id="informative-references"><a class="toc-anchor d-print-none" href="#informative-references">§</a> Informative References</h3>
 <!-- file: appendix.md -->
 <h2 id="appendices"><a class="toc-anchor d-print-none" href="#appendices">§</a> Appendices</h2>
-<h3 name="" id="appendix-a"><a class="toc-anchor d-print-none" href="#appendix-a">§</a> Appendix A:</h3>
-<h3 name="" id="appendix-b"><a class="toc-anchor d-print-none" href="#appendix-b">§</a> Appendix B:</h3>
+<h3 id="appendix-a-name"><a class="toc-anchor d-print-none" href="#appendix-a-name">§</a> Appendix A: {{Name}}</h3>
+<h3 id="appendix-b-name"><a class="toc-anchor d-print-none" href="#appendix-b-name">§</a> Appendix B: {{Name}}</h3>
 <h3 id="appendix-c-acknowledgements"><a class="toc-anchor d-print-none" href="#appendix-c-acknowledgements">§</a> Appendix C: Acknowledgements</h3>
 
 
@@ -557,8 +557,8 @@ The first sentence MUST be used if the section contains any normative requiremen
                 <div id="build-info" class="small text-muted">
                     <div class="d-flex align-items-center mb-1">
                         <i class="bi bi-calendar-event me-2"></i>
-                        <time class="timestamp" datetime="2026-05-13T17:05:43.196Z">
-                            Generated: 2026-05-13T17:05:43.196Z
+                        <time class="timestamp" datetime="2026-05-13T17:21:21.790Z">
+                            Generated: 2026-05-13T17:21:21.790Z
                         </time>
                     </div>
                     <div class="d-flex align-items-center mb-1">
