@@ -6,4 +6,4 @@
 
 ### Appendix C: Acknowledgements
 
-{The final appendix should contain any additional acknowledgements}
+{{The final appendix should contain any additional acknowledgements}}
