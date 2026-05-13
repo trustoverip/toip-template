@@ -1,6 +1,6 @@
 ## Introduction
 
-(REQUIRED. This is the first numbered section and SHALL be written so a layperson can quickly get an overview of the purpose and structure of the specification.)
+{REQUIRED. This is the first numbered section and SHALL be written so a layperson can quickly get an overview of the purpose and structure of the specification.}
 
 **Requirements Language**
 
