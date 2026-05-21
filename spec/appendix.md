@@ -7,3 +7,5 @@
 ### Appendix C: Acknowledgements
 
 {{The final appendix should contain any additional acknowledgements}}
+
+Copyright © {{Year}} Trust Over IP (ToIP)
