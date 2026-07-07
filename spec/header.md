@@ -22,7 +22,7 @@ _Contributors:_ {{MUST list the full names and official LF affiliations of each 
 
 **Intellectual Property Rights**
 
-This specification is provided under the [Joint Development Foundation](https://jointdevelopment.org) (JDF) charter for [Trust Over IP](https://trustoverip.org) (ToIP) and is subject to the intellectual property rights policy of the **{{insert name of}} Working Group**:
+This specification is provided under the [Joint Development Foundation (JDF) charter](https://cdn.platform.linuxfoundation.org/agreements/ToIP.pdf) for [Trust Over IP](https://trustoverip.org) (ToIP) and is subject to the intellectual property rights policy of the **{{insert name of}} Working Group**:
 
 {{modify the following bullets to reflect the IPR terms of the Working Group}}  
 _Copyright:_ [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
