@@ -24,6 +24,6 @@
     "custom-update": "npm update && node -e \"require('spec-up-t/src/install-from-boilerplate/custom-update.js')\""
   },
   "overrides": {
-    "puppeteer": "^25.9.0"
+    "katex": "^0.18.2"
   }
 }
